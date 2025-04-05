@@ -2,7 +2,7 @@ package project.postmantest.domain.user.service;
 
 import project.postmantest.domain.user.dto.UserDto;
 import project.postmantest.domain.user.entity.User;
-import project.postmantest.domain.user.repositort.UserDao;
+import project.postmantest.domain.user.repository.UserDao;
 
 import java.util.List;
 

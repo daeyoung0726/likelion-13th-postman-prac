@@ -1,4 +1,4 @@
-package project.postmantest.domain.user.repositort;
+package project.postmantest.domain.user.repository;
 
 import project.postmantest.database.ConnectionMaker;
 import project.postmantest.database.UserDatabase;
